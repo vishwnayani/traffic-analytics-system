@@ -7,7 +7,11 @@ An end-to-end Traffic Analytics System built using **YOLOv8l**, **ByteTrack**, *
 The system automatically detects, tracks, and analyzes vehicles from traffic surveillance videos and generates actionable traffic insights including vehicle counts, speed estimation, lane utilization, traffic flow direction, congestion monitoring, and vehicle type distribution.
 
 ---
+## 🎥 Demo
 
+### Vehicle Detection and Tracking
+
+![Traffic Analytics Demo](images/demo.gif)
 
 ---
 
