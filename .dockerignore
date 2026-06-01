@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+
+backend/output/
+backend/uploads/
+
+*.avi
+*.mp4
+
+.git/
+.gitignore
+
+.ipynb_checkpoints/

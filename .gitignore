@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs
+backend/output/*
+backend/uploads/*
+
+!backend/output/.gitkeep
+!backend/uploads/.gitkeep
+
+# Generated Videos
+*.avi
+*.mp4
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Docker
+*.log
