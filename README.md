@@ -8,19 +8,6 @@ The system automatically detects, tracks, and analyzes vehicles from traffic sur
 
 ---
 
-## Demo
-
-### Dashboard
-
-![Dashboard](images/dashboard.png)
-
-### Annotated Traffic Video
-
-<img src="images/demo.gif" width="900">
-
-### API Documentation
-
-![Swagger API](images/swagger.png)
 
 ---
 
