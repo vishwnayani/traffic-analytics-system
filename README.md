@@ -11,7 +11,9 @@ The system automatically detects, tracks, and analyzes vehicles from traffic sur
 
 ### Vehicle Detection and Tracking
 
-![Traffic Analytics Demo](images/demo.gif)
+<p align="center">
+  <img src="images/demo.gif" width="900">
+</p>
 
 ---
 
